@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjyolog=self.webpackChunkjyolog||[]).push([[7167],{7491:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/jyo-devlog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -2,108 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stop0ho.github.io/jyo-devlog/blog</id>
     <title>jyo devlog Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-12-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stop0ho.github.io/jyo-devlog/blog"/>
     <subtitle>jyo devlog Blog</subtitle>
     <icon>https://stop0ho.github.io/jyo-devlog/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://stop0ho.github.io/jyo-devlog/blog/welcome</id>
-        <link href="https://stop0ho.github.io/jyo-devlog/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://stop0ho.github.io/jyo-devlog/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <category label="Facebook" term="Facebook"/>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://stop0ho.github.io/jyo-devlog/blog/mdx-blog-post</id>
-        <link href="https://stop0ho.github.io/jyo-devlog/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>팁</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
+        <title type="html"><![CDATA[네이버 부스트캠프 9기 후기 | 부캠, 나!]]></title>
+        <id>https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/</id>
+        <link href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/"/>
+        <updated>2024-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[네이버 부스트캠프 9기 멤버십 후기]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://i.imgur.com/gMdiIMX.png" alt="" class="img_ev3q">
+2024년, 올 하반기를 함께한 부스트캠프가 지난 주 수료식을 마지막으로 끝났다.</p>
 <!-- -->
-<p>For example, use JSX to create an interactive button:</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain">Click me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="클립보드에 코드 복사" title="복사" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<button>Click me!</button>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://stop0ho.github.io/jyo-devlog/blog/long-blog-post</id>
-        <link href="https://stop0ho.github.io/jyo-devlog/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://stop0ho.github.io/jyo-devlog/blog/first-blog-post</id>
-        <link href="https://stop0ho.github.io/jyo-devlog/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+<p>마냥 후련하고 속 시원할 줄 알았는데 정이 많이 들었는지 슬픈 마음이 더 큰 것 같고.. 일주일간 공허했다. 아침에 일어나서 출석체크를 하고 데일리 스크럼을 해야할 것 같은데? 이제 늦잠을 자도 아무 상관이 없다는 게 마냥 기쁘지 않았다. 반년간 매일 붙어있던 연인과 헤어진다면 이런 느낌이지 않을까 싶다. ㅋㅋ</p>
+<p>하지만 일주일이 지난 지금은 슬퍼하지 않고 잘 보내주고(?) 멋진 시작을 해보고 싶은 마음이 생겼다. <strong>하지만 난 구질구질하니까 곱게 떠나보내줄 순 없어. 잔뜩 추억하고 보내줄 거다.</strong>&nbsp;그래서 이 글을 쓰게 되었다.</p>
+<p>네부캠에서 배운 것을 한 단어로 축약하자면 '<strong>나</strong>'라고 표현하고 싶다. 네부캠은 단순히 내 개발 실력을 향상시켜주는 곳이 아니었다. 나를 알아가는 공간이었다. 그래서 부제를 '부캠, 나!'라고 달았다. 그리고 이 글에서 '부캠, 나!'가 된 역사를 실~컷 이야기해보려고 한다. 조금 긴 글이 될 것 같다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="부스트캠프-9기-지원">부스트캠프 9기 지원<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-9%EA%B8%B0-%EC%A7%80%EC%9B%90" class="hash-link" aria-label="부스트캠프 9기 지원에 대한 직접 링크" title="부스트캠프 9기 지원에 대한 직접 링크">​</a></h2>
+<p>나는 당시 한창 너무 정신없이 바빴다. 알바, 네부캠 지원하고 문제 해결력 테스트 보고, 현대 소프티어 2차 시험 준비..등등</p>
+<p>소프티어 최종은 떨어졌다. 유감임. 오! 시험을 좀 못 봤나보네..하고 반나절정도 슬퍼하고 말았다. 대학 수시를 18번 떨어져봐서 그런지 뭐 어디에 떨어진다고 내 인생이 망한 건 아니니까~하고 조금 초연해질 수 있었던 것 같다.</p>
+<p>그래도 네부캠 1차는 합격했다. 나는 운 좋게 2차 직행자였지만 베이직부터 쭉 함께했다. 1, 2차 합격 후기와 베이직 회고는 요기에!!!</p>
+<p><a href="https://jyostudy.tistory.com/196" target="_blank" rel="noopener noreferrer">2024.07.10 - [🌱 네이버 부스트캠프] - 네이버 부스트캠프 웹/모바일 9기 1차 + 2차 합격 후기</a></p>
+<p><a href="https://jyostudy.tistory.com/197" target="_blank" rel="noopener noreferrer">2024.07.11 - [🌱 네이버 부스트캠프] - 네이버 부스트캠프 웹모바일 9기 베이직 회고</a></p>
+<p>또 정말정말 감사하게도 챌린지에 합격하게 되어서 수명이 연장 됐다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="챌린지-기간--왜에-대하여">챌린지 기간 | '왜'에 대하여<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%EC%B1%8C%EB%A6%B0%EC%A7%80-%EA%B8%B0%EA%B0%84--%EC%99%9C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC" class="hash-link" aria-label="챌린지 기간 | '왜'에 대하여에 대한 직접 링크" title="챌린지 기간 | '왜'에 대하여에 대한 직접 링크">​</a></h2>
+<p>이땐 정말 하루하루가 챌린징했다. <strong>CS</strong> 전반에 대해 많은 것들을 몸소 겪어보며 알아갔다. <strong>러닝바이두잉</strong>!</p>
+<p>하루만에 과제를 내야하는데 내 실력으론 절대 하루 안에 못 끝낼 분량이라 부담감이 컸다.</p>
+<p>사실 선택과 집중을 적절히 해서 내가 얻어가고 싶은 부분만 얻어갈 수도 있겠으나 그러기가 쉽지 않았다. <strong>가장 큰 부담은 '내가 이걸 해내지 못 하면 떨어질까봐'에서 오기 때문</strong>이다.</p>
+<p>1차 문제해결력 테스트를 볼 때까지만 해도 떨어지면 어떡하지? 하는 걱정이 잠깐 들더라도 떨어지면 그냥 다른 거 할 거 알아보면 되지 하며 마음이 편했는데, 이미 베이직과 챌린지 과정을 겪으면서 날이 갈수록 빠르게 성장하는 맛을 봐버렸고 함께 하고 싶은 좋은 동료도 많이 알게된 상태라 떨어지고 싶지 않았다. 날이 갈수록 간절해졌고 간절한만큼 여유를 잃었다.</p>
+<p>그럴 때마다 내가 왜 이렇게까지 간절해야하는가? 단순히 부캠 멤버십에 붙고 무사히 수료하는 게 내 삶의 지향점인가?에 대한 생각을 많이 했다. 부캠은 내 인생 목표가 아니다. 나는 성장을 위해 부캠에 들어왔고, 부캠에서 배워가고 싶은 것은 협업과 탄탄한 기초였다. 잘 생각해보니 지금 당장도 동료들과 함께 코드를 짜보면서 협업을 맛보고, 매일매일 챌린징한 하루를 보내면서 기초를 쌓아가는 근력을 기르는 중인데? 될지 안될지도 모르는 것에 매달리며 현재를 고통스럽게 보내기엔 내 현재가 너무 아깝지 않은가? 그래서 그냥 근력 기르기에 충실하자고 다짐했다. 꼭 나를 세뇌하듯이 잠들기 전마다 <strong>'나는 지금 배우러 온 거야. 점수 따러 온 게 아니야.'</strong>를 곱씹었다.</p>
+<p>그리고 <strong>내 주변의 인적 자원을 소중히하자</strong>고 다짐했다. 사실 혼자 고군분투 하는 건 부캠이 아니더라도 얼마든 할 수 있다. 부캠의 큰 장점은 동료학습이기에 주변에 실력 좋은 분들의 방식을 열심히 쌔벼보고 나에게 맞는 방식으로 조금씩 고쳐나가야겠다는 마음가짐으로 임했다. 그렇게 해야만 만약 떨어지더라도 좀 더 즐길걸 하는 후회가 없을 것 같았다. 그렇게 4주를 보내니 결과를 기다릴 때 떨어져도 괜찮겠다, 하지만 붙으면 더 좋겠다^^ 하는 생각이 들었다.</p>
+<p>베이직과 챌린지를 합쳐 내가 배운 것은 <strong>'왜?'</strong> 였다. 내가 왜 이걸 해야하지? 이걸 해서 내가 얻어갈 수 있는 게 뭐지? 내가 여기서 뭘 배워야 하는 거지? 나는 왜 이걸 틀렸지? 왜 에러가 났을까? 왜 이 경우에선 멀쩡한데 이 경우에선 안되지? 오만가지의 질문을 던져봤다. 하지만 아는 게 많지 않은 상태로 질문을 던지니 '정지호는 왜 정지호지?'같이 이미 정해져있는 것에 대한 쓸데없는 의문에 시간을 쏟은 적도 꽤 있었다. 당시에는 그 시간이 너무 허무하고 아까웠으나 여러 시행착오를 거치며 왜?를 해야할 <strong>때</strong>를 함께 알아갈 수 있었던 것 같다. 그래서 베이직과 챌린지만으로도 충분히 내게 의미있는 시간이었다.</p>
+<p>정말정말 감사하게도 내게 또 기회가 주어졌다. 멤버십에 합격하게 되었다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="멤버십-전반부--내-개발-인생의-터닝-포인트">멤버십 전반부 | 내 개발 인생의 터닝 포인트<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%EB%A9%A4%EB%B2%84%EC%8B%AD-%EC%A0%84%EB%B0%98%EB%B6%80--%EB%82%B4-%EA%B0%9C%EB%B0%9C-%EC%9D%B8%EC%83%9D%EC%9D%98-%ED%84%B0%EB%8B%9D-%ED%8F%AC%EC%9D%B8%ED%8A%B8" class="hash-link" aria-label="멤버십 전반부 | 내 개발 인생의 터닝 포인트에 대한 직접 링크" title="멤버십 전반부 | 내 개발 인생의 터닝 포인트에 대한 직접 링크">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="학습-남발하다가-슬럼프-만나기">학습 남발하다가 슬럼프 만나기<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%ED%95%99%EC%8A%B5-%EB%82%A8%EB%B0%9C%ED%95%98%EB%8B%A4%EA%B0%80-%EC%8A%AC%EB%9F%BC%ED%94%84-%EB%A7%8C%EB%82%98%EA%B8%B0" class="hash-link" aria-label="학습 남발하다가 슬럼프 만나기에 대한 직접 링크" title="학습 남발하다가 슬럼프 만나기에 대한 직접 링크">​</a></h3>
+<p>고등학생 때 6.10 민주항쟁에 대해 발표해야됐던 때가 기억난다. 당시에 프레젠테이션을 좀 더 멋지게 해주는 각종 효과들을 막 배운 상태라 열심히 효과들을 때려넣었다. 나는 6.10 민주항쟁에 대해 자료조사하면서 많이 슬펐고, 감사했다. 하지만 PPT 상태가 너무 요란했다. <strong>새로운 것에 너무 신난 나머지 정말 중요한 것을 잊어버린 것</strong>이다.</p>
+<p>멤버십 초기의 내가 딱 그랬다. 왜?에 대한 질문을 하고, 깊이 학습하는 데에 지나치게 매몰된 나머지 결과물을 거의 내지 못 했다. 하루종일 고민하고도 코드 10줄만 수정하고 하루가 마무리 되는 날이 지속됐다. 이상하다 생각하면서도 많이 배워가고 있으니까 괜찮다며 스스로를 위안했다. 사실 괜찮지 않았나보다. 슬럼프가 강하게 찾아왔다. 뭘 해도 너무 재미가 없었다. 어떤 것을 해도 성취감이 없었다. 아래는 내가 당시에 슬랙에 남겼던 글이다.</p>
+<p><img decoding="async" loading="lazy" src="https://i.imgur.com/Okkg4cw.png" alt="" class="img_ev3q"></p>
+<p>정말로 그랬다. 나아지는 게 눈에 확확 들어오지 않으니 열심히 살고 싶지 않았다. 그래도 열심히 살아야 한다니까 뭐 최선을 다하긴 하겠으나 최선을 다하고 자기 전에 누우면 삶이 그저 막막했다. 그래서 다른 사람들은 어떻게 지내는지가 궁금했다.</p>
+<p>저렇게 올리고 많은 연락을 받았다. 많은 분들의 위로와 조언을 들으며 또 '왜?'라는 질문을 던져봤다. 나는 원래 개발이 정말 재밌었는데 어쩌다 이렇게 재미가 없어졌을까? 딥다이브, 학습, 뭐 이런 거에 지나치게 집착했던 것 같다. 사실 나는 똥인지 된장인지 먹어봐야 아는 바본데 말이야. 백문이불여일견, 백견이불여일행인데 백문, 백견만 하고 있었다. 딥다이브에 집착하느라 정작 나를 잠시 잊고있던 것 같다. 그래서 다시금 마음을 먹었다.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="내가-좋은-개발자가-되려면-어떻게-해야할까에-대한-고민">내가 좋은 개발자가 되려면 어떻게 해야할까?에 대한 고민<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%EB%82%B4%EA%B0%80-%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC" class="hash-link" aria-label="내가 좋은 개발자가 되려면 어떻게 해야할까?에 대한 고민에 대한 직접 링크" title="내가 좋은 개발자가 되려면 어떻게 해야할까?에 대한 고민에 대한 직접 링크">​</a></h3>
+<p>일단 나에 대해 생각했다. 나는 효율을 중시하는 편이다. 삼수할 때 수능 공부할 때도&nbsp;(사실 그러면 안됐을거같지만) 하루에 5시간만 공부했다. 대신 5시간 내에 최대 효율을 낼 수 있는 방법을 생각했다. 그저 앉아있는 시간이 길다고 해서 결과가 좋은 건 아니다 하는 마인드였다. 근데 네부캠에서 최대한 학습을 많이 해가야해, 많이 성장해야해 하는 생각으로 너무 지나치게 효율을 멀리했다.</p>
+<p>왠지 네부캠에서 강조하는 <strong>딥다이브</strong>는 너! 책상 앞에 오래 앉아있어! 아주 사소한 것도 다 공부하고 고민해봐! 너가 짜는 모든 코드를 다 최적화할줄 알아야해! 이건 절대 아니었을 것 같다. 대신에 너가 상태 관리에 useState를 사용했어? 왜? 다른 방법은 없었어? useState가 어떻게 동작하는데? 어떨 때 리렌더링 되는데?하는 것들을 알고 사용하라는 거였겠지.</p>
+<p>그렇다고 저 생각을 기능 구현의 모든 순간마다 다 할 순 없다. 나는 효율을 지금 내게 필요한 지식이 어디서부터 어디까지인지 판단하는 데에서 찾아보려고 했다. 그리고선 <strong>내게 지금 필요한 만큼</strong>만이라도 제대로 알고 넘어가자고 결심했다.</p>
+<p>그리고 또 고민했다. 그냥 냅다 기능 구현 해보고 싶어. 그런데 잘 알지 못 하는 상태에서 공식문서 사용법만 보고 구현해놓으면 나중에 거기서 생기는 문제를 고치는 데에 시간이 더 들잖아. 어떻게 해야 좋은 개발자가 될 수 있는 걸까? 처음부터 좋은 코드를 짜려면 애초에 많이 실수하고 많이 굴러봐서 이렇게 하면 안 된다 하는 빅데이터가 생겨야 하지 않을까? 근데 나는 지금 절대적으로 경험이 부족해. 대형 프로젝트는 당연히 해본 적도 없고, 그럴 기회를 얻는 것도 쉽지 않아. 그렇다고 지금 내 수준에서 고작 0.01ms 성능 개선하자고 몇시간씩 갈아넣는 건 하기 싫어. 그럼 내가 어느정도로 해보면 좋을까?</p>
+<p>해서 내가 생각해본 세 가지 방법이 있다.</p>
+<p>1. <strong>일단 해보고 개선점을 찾고 고치기</strong>: 여기에서 중요한 건 개선점을 찾고 고치는 데까지 너무 오래걸리면 안 된다. 이미 너무 멀리 온 상태에서 고치려하면 엄두가 안 난다. 피드백 루프가 짧아야 한다. 그리고 그 '고치는 과정'을 학습이라고 여기고 최선을 다하기. 내 경우에는 오늘 하루를 돌아보며 오늘 내 코드가 어떤 부분에서 얼마나 그지같았는가를 늘 메모해두고 고치려했다.</p>
+<p>2. <strong>기준점을 만들기</strong>: 일단 아무것도 감이 안 올 때는 베스트 프랙티스를 내 상황에서 어떻게 적용하면 좋을지 판단해보고 적절히 맞춰서 냅다 따라한다. 그러면서 왜 이게 베스트 프랙티스인지를 기존의 내 개발새발 코드와 비교해본다. 그러면서 감을 찾고 점점 개선해나간다.</p>
+<p>3. <strong>상여자식 학습법</strong>: 내가 왜 이걸 공부해야되지? 생각이 들면 걍 안한다. 지금 당장 나한테 필요한 학습이 아니니까 저런 나태한 생각이 드는거임. 지금 당장 내게 문제가 닥쳤고 그걸 해결해야되는 상황에서 학습을 할 땐 왜 같은 생각 안 든다. 급해죽겠는데 잡생각은 사치임. 그냥 겁나 공부하게됨. 그럼 학습이 재밌다.</p>
+<p>한 몇년 지나서 보면 그거 아냐..! 하고 외치게 될 수도 있겠으나 지금 내 판단에서는 이 세 가지 방법이 적어도 내게는 유용한 것 같다. 그래서 열심히 따르고 있다.</p>
+<p>그리고 사실 한창 고민될 때 챗지피티한테도 고민 상담을 했다.</p>
+<p><img decoding="async" loading="lazy" src="https://i.imgur.com/Gl1Efst.png" alt="" class="img_ev3q"></p>
+<p>고맙다.</p>
+<p>네부캠에서는 운영진 분들이 계속해서 <strong>실수해도 괜찮다</strong>는 말씀을 해주신다.</p>
+<p>정확하고 가장 빠른 길로 갈 수 있다면 정말 좋겠지만 경험이 별로 없는 상태에서 내게 최적의 길을 어떻게 찾아가나요? 원래 초행길은 헤매는 법이잖아요~ 내가 경험이 많이 없기에 헤맬 수 있다는 걸 머리로는 정말 잘 알고있지만 가끔 내게 가혹해질 때가 있다. 다른 사람들의 실수는 그럴 수 있다고 한없이 너그러워질 수 있지만 내 실수에는 왜 이렇게 실망스러운 마음이 들까.</p>
+<p>그럴 때마다 실수해도 괜찮다는 말씀에 많이 위안이 되었다. 맞아. 실수해도 괜찮다. 사실 남들은 나한테 그렇게 큰 관심이 없다. 내가 초대박 대형 사고를 친다면 모르겠지만 작은 실수에 너무 벌벌 떨 필요는 없을 것 같다. 대신에 실수를 반복하면 그건 습관이 되어버리니, 그러지 않기 위해 내가 왜 실수를 했는지, 실수를 다시 하지 않으려면 어떻게 해야하는지에 대해 생각해보고 <strong>같은 실수를 반복하지 않으려 노력한다면 괜찮을 것 같다.</strong> 왠지 네부캠 거치며 조금 뻔뻔해진 것 같기도. ㅎㅎ;</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="멤버십-후반부--대망의-팀-프로젝트">멤버십 후반부 | 대망의 팀 프로젝트<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%EB%A9%A4%EB%B2%84%EC%8B%AD-%ED%9B%84%EB%B0%98%EB%B6%80--%EB%8C%80%EB%A7%9D%EC%9D%98-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" class="hash-link" aria-label="멤버십 후반부 | 대망의 팀 프로젝트에 대한 직접 링크" title="멤버십 후반부 | 대망의 팀 프로젝트에 대한 직접 링크">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="기술적-도전-학습">기술적 도전? 학습?<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%8F%84%EC%A0%84-%ED%95%99%EC%8A%B5" class="hash-link" aria-label="기술적 도전? 학습?에 대한 직접 링크" title="기술적 도전? 학습?에 대한 직접 링크">​</a></h3>
+<p>6주 간의 팀프로젝트가 있었다. 정말 다사다난했지만 많이 배워갔다. 프로젝트 깃헙은 요기!</p>
+<p><a href="https://github.com/boostcampwm-2024/web14-betting-duck" target="_blank" rel="noopener noreferrer">https://github.com/boostcampwm-2024/web14-betting-duck</a></p>
+<p>일단 기술적으로는.. 프론트에서 socket 해제를 잘 하지 못 해서 서버를 터뜨려버렸다. 이때 와 진짜 클났다 하는 생각으로 컴포넌트 생명 주기와 socket 연결 수립/해제를 어떻게 해야하는지 팀원분과 많은 이야기를 나눴고, 해결했다. 다행히 우리 백엔드분들은 상당히 친절하셔서.. 백엔드에서도 이런 경우를 어떻게 해결하면 좋을지에 대해 고민해주셨다..ㅎㅎ</p>
+<p>그 외에도 상태관리에 대한 고민도 많이 했다. 객체로 상태를 관리하면 어떤 점이 안 좋은지 백엔드에 초당 1000건이 넘는 요청을 보내버리면서 체득했다. 백엔드 분들께 압도적 죄송과 압도적 감사. 이것저것 많이 배웠다.</p>
+<p>어떠한 도전을 했는가? 하면 솔직히 그건 잘 모르겠다. socket 자체가 너무 잘 되어있어서 내 스스로 도전이라고 할 만큼의 굉장한 노력이 있진 않았다..ㅎㅎ 나에겐 <strong>도전이라기보다는 학습의 시간</strong>이었던 것 같다.</p>
+<p>대신 사용자 피드백을 반영해보려고 조금씩 노력했다.</p>
+<p><img decoding="async" loading="lazy" src="https://i.imgur.com/DpFPupE.png" alt="" class="img_ev3q"></p>
+<p>아주 사소하게는 채팅 UI에 대해 조언을 듣고 개선하고, 타이머에 '분' 표시가 안 되는 것이 불편하다는 피드백에 그걸 개선하고, 타이머를 1분씩만 올리기 불편하다는 말에 타이머를 좍좍 올릴 수 있도록 개선하고.</p>
+<p>이런 것들은 어떤 기술적인 고민보다 훨씬 시간과 노력이 적게 들지만 그럼에도 사용자에게는 보다 좋은 경험을 안겨줄 수 있다. 사실 사용자는 내가 소수점 단위의, 그것도 ms 단위의 성능 개선을 위해 몇시간을 들였는지는 관심도 없을 거고, 지금 당장 UI/UX가 편한지가 가장 중요할 것 같다.</p>
+<p>그래서 왠지 사용자와 프론트엔드 개발자와의 관계가 손님과 직원의 관계가 아닐까 하는 생각도 든다. 내가 얼마나 무슨 노력을 하든 그건 별로 중요하지 않고 소비자에게 근사한 경험만 해주면 일을 잘 하는 거지~~ 소비자는 나의 성장 역사에는 관심이 없어!</p>
+<p>사용자에게 더 좋은 경험을 더 빠르게 안겨주면서 같이 일하는 사람들에게도 좋은 경험을 줄 수 있도록 클린 코드까지 구사하려면 평소에 굉장히 많은 노력이 필요할 것 같다. 이미 네부캠에서 좋은 코드를 짜기 위해 많은 것을 배웠으니 이젠 내가 열심히 실천할 일만 남았다.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="팀프로젝트---협업편">팀프로젝트 - 협업편<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8---%ED%98%91%EC%97%85%ED%8E%B8" class="hash-link" aria-label="팀프로젝트 - 협업편에 대한 직접 링크" title="팀프로젝트 - 협업편에 대한 직접 링크">​</a></h3>
+<p>나는 지금껏 팀프로젝트에서 엄청나게 좋은 인상을 받은 적이 몇 번 없었다. 예전에 한 번은 교수님께서 불참자가 한명이라도 있으면 감점하겠다고 폭탄 선언을 하셨는데, 매번 불참하던 팀원이 그날까지도 연락 두절이었던 적이 있다. 그때 너무 열 받아서 그냥 집에 찾아가서 끌고왔다. 지금 생각해보면 당시 잠깐 미쳤던 게 아닐까 싶다.</p>
+<p>솔직하게 "일을 열심히 하지 않는 사람이 있으면 어떻게 할 거냐"는 질문을 받으면 할 말을 잃는다. 이 나이 먹고도 참여 안 하는 사람은 그냥 그런 사람인 거지 제가 무슨 말을 한다고 바뀌겠나요..?</p>
+<p><strong>하지만 네부캠 프로젝트를 하면서 팀플에 대해 다시 생각하게 됐다.</strong></p>
+<p>사실 이번 프로젝트 우리 팀 금쪽이는 내가 아니었을까. 주말에는 쉬어야 하는 나. 너무 오래 앉아있고 싶진 않아하는 나. 반대로 시간을 많이 들이시고 주말에도 열심히 하시는 팀원분. 완전 정반대의 성향이었는데도 나를 이해하고 배려해주기 위해 최선을 다하시는 모습을 보면서 나도 내 기준에서의 휴식 시간을 조금씩 양보하게 되었다. 이 과정에서 내 기준에서 열심히 하지 않는 이가 있으면 박박 구박했던 지난 날의 나를 반성했다.</p>
+<p>동료는 마냥 남남의 관계는 아닌 것 같다. 그냥 나와 함께 일하는 소중한 동료라고 생각하고 상대의 마음을 이해하려고 노력하면 의견 차이로 조금 투닥투닥 하더라도 상대의 말을 곡해 없이 있는 그대로 인정하고 받아들일 수 있는 것 같다. 만약 오해가 생길 것 같을 때는 너무 마음에 담아두지 말고 솔직하게 이야기하고 대화하기. 아주 어렵지만 사실 가장 편히 갈 수 있는 길이 아닐까?</p>
+<p>대화가 안 통하는 사람이 있으면 어떻게 할지는..아직 생각을 안 해봤다. 그땐 좀 화가 날 것 같긴 하다.</p>
+<p>나는 이번 그룹 프로젝트 때 단순히 기술, 학습 뭐 그런 것을 넘어서 협업에 대한 소중한 인사이트를 얻었다. 함께 합을 맞춰 원하는 결과를 내기 위해 고군분투해준 나의 소중한 동료들에게 진심으로 감사하다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="부캠-나">부캠, 나!<a href="https://stop0ho.github.io/jyo-devlog/blog/2024/12/14/#%EB%B6%80%EC%BA%A0-%EB%82%98" class="hash-link" aria-label="부캠, 나!에 대한 직접 링크" title="부캠, 나!에 대한 직접 링크">​</a></h2>
+<p>부스트캠프에서 다양한 인연을 만났다. 동료들, 운영진분들, 멘토님들.. 한 분 한 분께 감사인사를 전하려면 또 청룡영화제 수상소감을 또 한 편 적어야될테니.. 짧게 적어야지. <strong>저와 함께 해주셔서 감사합니다!!!!!</strong></p>
+<p>나는 부스트캠프에서 나에 대해 많은 생각을 했고, 많이 알아갔다. 지금까지는 늘 가까운 사람들이 보는 나, 내가 보는 나에 대해서만 알았는데, 부스트캠프에서 동료들이 보는 나에 대해서도 알 수 있었다.</p>
+<p>동료로서의 나는 밝고 긍정적이라는 이야기를 정말 많이 들었다. 하지만 내가 생각하는 나는 그렇지 않다. 심지어 나는 한남대교를 지나면서 어떠한 사고가 나서 차가 다리 아래로 떨어진다면 나는 수영을 하지 못 하는데 어떻게 살아 남을 수 있을까? 하는 생각으로 수영을 배우러 다닌 전적이 있다. 정말 걱정도 많고 그렇게 밝지도 않고 싫어하는 것 투성이인데 왜 다들 나를 그렇게 좋게 봐주는 거지? 의문이었다. 처음에는 내가 생각하는 나와의 괴리감때문에 마냥 좋지는 않았던 것 같다. 하지만 이제는 조금 즐기는 중이다. 나의 부캐를 키우는 느낌으로. ㅋㅋ</p>
+<p>협업 할 때 내 장점이 밝음이라면 일 할 때는 조금 햇살같은 사람이 되어도 좋지 않을까. 다른 이들이 좋게 봐주는 걸 마냥 뱉어내지 말고 새로운 나의 강점으로 가져가봐도 좋겠다는 생각이 든다.</p>
+<p>내가 개발자로서 어떻게 나아가면 좋을까에 대한 고민도 많이 한 것 같다. 특히 프론트엔드 개발자로서 좋은 개발자가 되려면 어떻게 해야할지에 대한 고민이 많았다. 이건 내가 개발자로서의 삶을 살아간다면 늘 마음 한 켠에 자리잡고 있지 않을까? 고민하고 나아지고 싶어서 내 고민도 그냥 품어주기로 했다.</p>
+<p>나를 알아가고, 좋은 사람들을 알아가고. 긴 인생에서 아주 짧은 시간이지만 오래오래 기억에 남을 만큼의 소중한 시간을 보냈다.</p>
+<p>늘 씩씩하게 어떤 일이 있어도 잘 이겨나갈 수 있기를! 화이팅!!</p>]]></content>
     </entry>
 </feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjyolog=self.webpackChunkjyolog||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ub124\uc774\ubc84 \ubd80\uc2a4\ud2b8\ucea0\ud504 9\uae30 \ud6c4\uae30 | \ubd80\ucea0, \ub098!","permalink":"/jyo-devlog/blog/2024/12/14/","unlisted":false,"date":"2024-12-14T00:00:00.000Z"}]}')}}]);

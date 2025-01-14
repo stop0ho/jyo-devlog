@@ -6,26 +6,17 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "jyo devlog",
-  tagline: "Dinosaurs are cool",
+  tagline: "프론트엔드 개발과 여러 경험을 기록하고 있습니다.",
   favicon: "img/favicon.ico",
-
-  // Set the production url of your site here
   url: "https://stop0ho.github.io",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/jyo-devlog/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "stop0ho", // Usually your GitHub org/user name.
-  projectName: "jyo-devlog", // Usually your repo name.
+  organizationName: "stop0ho",
+  projectName: "jyo-devlog",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "ko",
     locales: ["ko"],
@@ -40,15 +31,12 @@ const config: Config = {
           editUrl: "https://github.com/stop0ho/",
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           feedOptions: {
             type: ["rss", "atom"],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/stop0ho/",
-          // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
@@ -61,21 +49,25 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/logo.png",
     navbar: {
       title: "jyo devlog",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/logo.png",
       },
       items: [
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "개발",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        {
+          to: "/blog",
+          label: "기록",
+          position: "left",
+        },
         {
           href: "https://github.com/stop0ho/",
           html: `
@@ -89,56 +81,14 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Tutorial",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "X",
-              href: "https://x.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © 2021 jyo. Built with Docusaurus.`,
     },
     prism: {
-      theme: prismThemes.palenight,
+      theme: prismThemes.dracula,
       darkTheme: prismThemes.dracula,
       additionalLanguages: ["jsx", "tsx", "css", "javascript", "typescript"],
     },
   } satisfies Preset.ThemeConfig,
-
   markdown: {
     mermaid: true,
   },

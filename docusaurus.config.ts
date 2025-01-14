@@ -133,7 +133,7 @@ const config: Config = {
       copyright: `Copyright © 2021 jyo. Built with Docusaurus.`,
     },
     prism: {
-      theme: prismThemes.github,
+      theme: prismThemes.palenight,
       darkTheme: prismThemes.dracula,
       additionalLanguages: ["jsx", "tsx", "css", "javascript", "typescript"],
     },

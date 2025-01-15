@@ -58,15 +58,28 @@ const config: Config = {
       },
       items: [
         {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          type: "dropdown",
           position: "left",
-          label: "개발",
+          label: "공부",
+          items: [
+            {
+              label: "Javascript",
+              type: "docSidebar",
+              sidebarId: "javascriptSidebar",
+            },
+            { label: "React", type: "docSidebar", sidebarId: "reactSidebar" },
+            { label: "CS", type: "docSidebar", sidebarId: "CSSidebar" },
+          ],
         },
         {
           to: "/blog",
           label: "기록",
           position: "left",
+        },
+        {
+          label: "면접준비",
+          type: "docSidebar",
+          sidebarId: "interviewSidebar",
         },
         {
           href: "https://github.com/stop0ho/",

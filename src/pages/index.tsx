@@ -27,12 +27,10 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="프론트엔드 공부 관련 내용과 각종 인사이트를 기록하고 있습니다."
     >
-      <HomepageHeader />
       <main>
-        {/* <HomepageFeatures /> */}
-        작성중!
+        <HomepageFeatures />
       </main>
     </Layout>
   );
